@@ -1,0 +1,11 @@
+label>input{
+    height: 1.2rem;
+    width: 1.2rem;
+    margin-right: .8rem;
+  }
+#modeText{
+    position: relative;
+    top: -5px;
+    right: .5rem;
+    color: rgb(255, 153, 0)   ;
+}
